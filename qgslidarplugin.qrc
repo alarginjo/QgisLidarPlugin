@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/" >
+        <file>icons/lidar.png</file>
+        <file>icons/arrow_down.png</file>
+        <file>icons/arrow_up.png</file>
+        <file>icons/class_below48.png</file>
+        <file>icons/class_above48.png</file>
+        <file>icons/class_close48.png</file>
+        <file>icons/mArrowDown.png</file>
+        <file>icons/mArrowUp.png</file>
+        <file>icons/mClassBelow.png</file>
+        <file>icons/mClassAbove.png</file>
+        <file>icons/mClassClose.png</file>
+    </qresource>
+</RCC>
